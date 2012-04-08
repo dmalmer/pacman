@@ -1,6 +1,6 @@
 Pacman Genetic Algorithm
 ------------------------
-Terminal-based pacman game played by a genetic algorithm. I modified an existing open source pacman game (see readme below) to work with the algorithm.
+Terminal-based pacman game played by a genetic algorithm. I modified an existing open source pacman game (see README in files) to work with the algorithm.
 
 **To compile:**
 
