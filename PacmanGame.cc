@@ -16,6 +16,7 @@
 #include <curses.h>
 #include <sys/timeb.h>
 #include <string.h>
+#include <unistd.h>
 
 class PacmanGame {
 public:
